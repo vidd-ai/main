@@ -1,0 +1,153 @@
+{"all": {"nodes": [
+{"atom": 0, "group": 3, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/000.gif", "name": "0.3.830", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 830 
+},
+ {"atom": 1, "group": 5, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/001.gif", "name": "1.5.1270", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 440 
+},
+ {"atom": 2, "group": 19, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/002.gif", "name": "2.19.4023", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2753
+},
+ {"atom": 3, "group": 20, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/003.gif", "name": "3.20.4342", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 319
+},
+ {"atom": 4, "group": 21, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/004.gif", "name": "4.21.4538", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 196
+},
+ {"atom": 5, "group": 22, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/005.gif", "name": "5.22.4768", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 230
+},
+ {"atom": 6, "group": 25, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/006.gif", "name": "6.25.5479", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 711
+},
+ {"atom": 7, "group": 26, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/007.gif", "name": "7.26.5792", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 313
+},
+ {"atom": 8, "group": 30, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/008.gif", "name": "8.30.6635", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 843
+},
+ {"atom": 9, "group": 31, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/009.gif", "name": "9.31.7005", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 370
+},
+ {"atom": 10, "group": 42, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/010.gif", "name": "10.42.9450", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2445
+},
+ {"atom": 11, "group": 44, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/011.gif", "name": "11.44.9967", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 517
+}, 
+{"atom": 12, "group": 57, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/012.gif", "name": "12.57.12952", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2985
+},
+{"atom": 13, "group": 58, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/013.gif", "name": "13.58.13011", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 59
+}, 
+{"atom": 14, "group": 59, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/014.gif", "name": "14.59.13203", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 192
+}, 
+{"atom": 15, "group": 71, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/015.gif", "name": "15.71.16024", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2821
+},
+ {"atom": 16, "group": 72, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/016.gif", "name": "16.72.16028", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 4
+},
+ {"atom": 17, "group": 76, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/017.gif", "name": "17.76.17039", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 1011
+},
+ {"atom": 18, "group": 82, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/018.gif", "name": "18.82.18528", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 1489
+},
+ {"atom": 19, "group": 93, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/019.gif", "name": "19.93.21271", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2743
+},
+ {"atom": 20, "group": 104, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/020.gif", "name": "20.104.23489", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2218
+},
+ {"atom": 21, "group": 110, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/021.gif", "name": "21.110.24946", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 1457
+},
+ {"atom": 22, "group": 128, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/022.gif", "name": "22.128.29205", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 4259
+},
+ {"atom": 23, "group": 140, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/023.gif", "name": "23.140.31872", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2667
+},
+ {"atom": 24, "group": 142, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/024.gif", "name": "24.142.32259", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 387
+},
+ {"atom": 25, "group": 151, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/025.gif", "name": "25.151.34260", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2001
+},
+ {"atom": 26, "group": 154, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/026.gif", "name": "26.154.35067", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 807
+},
+ {"atom": 27, "group": 154, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/027.gif", "name": "27.154.35140", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 73
+},
+ {"atom": 28, "group": 156, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/028.gif", "name": "28.156.35434", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 294
+},
+ {"atom": 29, "group": 157, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/029.gif", "name": "29.157.35480", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 46
+},
+ {"atom": 30, "group": 178, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/030.gif", "name": "30.178.39722", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 4242
+},
+ {"atom": 31, "group": 178, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/031.gif", "name": "31.178.39852", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 130
+},
+ {"atom": 32, "group": 178, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/032.gif", "name": "32.178.39881", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 29
+},
+ {"atom": 33, "group": 181, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/033.gif", "name": "33.181.40534", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 653
+},
+ {"atom": 34, "group": 183, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/034.gif", "name": "34.183.40787", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 253
+},
+ {"atom": 35, "group": 184, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/035.gif", "name": "35.184.41016", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 229
+},
+ {"atom": 36, "group": 185, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/036.gif", "name": "36.185.41112", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 96
+},
+ {"atom": 37, "group": 185, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/037.gif", "name": "37.185.41345", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 233
+},
+ {"atom": 38, "group": 186, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/038.gif", "name": "38.186.41419", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 74
+},
+ {"atom": 39, "group": 186, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/039.gif", "name": "39.186.41567", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 148
+},
+ {"atom": 40, "group": 188, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/040.gif", "name": "40.188.41758", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 191
+},
+ {"atom": 41, "group": 191, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/041.gif", "name": "41.191.42407", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 649
+},
+ {"atom": 42, "group": 192, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/042.gif", "name": "42.192.42603", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 196
+},
+ {"atom": 43, "group": 201, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/043.gif", "name": "43.201.44832", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2229
+},
+ {"atom": 44, "group": 218, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/044.gif", "name": "44.218.48722", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 3890
+},
+ {"atom": 45, "group": 231, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/045.gif", "name": "45.231.51697", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2975
+},
+ {"atom": 46, "group": 234, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/046.gif", "name": "46.234.52366", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 669
+},
+ {"atom": 47, "group": 257, "image_address": "https://bitbucket.org/viddai/viddai.bitbucket.io/raw/503d77de321331dd70d75dac0d766165719fad7f/output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/047.gif", "name": "47.257.57668", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 5302
+},
+ {"atom": 48, "group": 257, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/048.gif", "name": "48.257.57724", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 56
+},
+ {"atom": 49, "group": 257, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/049.gif", "name": "49.257.57852", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 128
+},
+ {"atom": 50, "group": 261, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/050.gif", "name": "50.261.58719", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 867
+},
+ {"atom": 51, "group": 263, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/051.gif", "name": "51.263.59303", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 584
+},
+ {"atom": 52, "group": 267, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/052.gif", "name": "52.267.60185", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 882
+},
+ {"atom": 53, "group": 280, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/053.gif", "name": "53.280.63487", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 3302
+},
+ {"atom": 54, "group": 308, "image_address": "https://bitbucket.org/viddai/viddai.bitbucket.io/raw/503d77de321331dd70d75dac0d766165719fad7f/output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/054.gif", "name": "54.308.70022", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 6535
+},
+ {"atom": 55, "group": 310, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/055.gif", "name": "55.310.70564", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 542
+},
+ {"atom": 56, "group": 315, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/056.gif", "name": "56.315.71638", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 1074
+},
+ {"atom": 57, "group": 327, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/057.gif", "name": "57.327.74576", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2938
+},
+ {"atom": 58, "group": 351, "image_address": "https://bitbucket.org/viddai/viddai.bitbucket.io/raw/503d77de321331dd70d75dac0d766165719fad7f/output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/058.gif", "name": "58.351.80397", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 5821
+},
+ {"atom": 59, "group": 353, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/059.gif", "name": "59.353.80685", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 288
+}], "links": []}, 
+"face": {"nodes": [], "links": []}, 
+"vary": {"nodes": [
+{"atom": 2, "group": 19, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/002.gif", "name": "2.19.4023", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2753
+},
+ {"atom": 13, "group": 58, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/013.gif", "name": "13.58.13011", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 59
+},
+ {"atom": 20, "group": 104, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/020.gif", "name": "20.104.23489", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2218
+},
+ {"atom": 22, "group": 128, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/022.gif", "name": "22.128.29205", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 4259
+},
+ {"atom": 24, "group": 142, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/024.gif", "name": "24.142.32259", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 387
+},
+ {"atom": 25, "group": 151, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/025.gif", "name": "25.151.34260", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2001
+},
+ {"atom": 28, "group": 156, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/028.gif", "name": "28.156.35434", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 294
+},
+ {"atom": 30, "group": 178, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/030.gif", "name": "30.178.39722", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 4242
+},
+ {"atom": 41, "group": 191, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/041.gif", "name": "41.191.42407", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 649
+},
+ {"atom": 45, "group": 231, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/045.gif", "name": "45.231.51697", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 2975
+},
+ {"atom": 47, "group": 257, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/047.gif", "name": "47.257.57668", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 5302
+},
+ {"atom": 49, "group": 257, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/049.gif", "name": "49.257.57852", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 128
+},
+ {"atom": 53, "group": 280, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/053.gif", "name": "53.280.63487", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 3302
+},
+ {"atom": 54, "group": 308, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/054.gif", "name": "54.308.70022", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 6535
+},
+ {"atom": 58, "group": 351, "image_address": "output/fd0c11c95c8614cfb4b76a28208d61f9/03.mov/058.gif", "name": "58.351.80397", "image_width": 53, "image_height": 30, "HasFace": false, "clip_len": 5821
+}], "links": []}}
