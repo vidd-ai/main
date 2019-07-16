@@ -67,16 +67,16 @@ hr {
   <br/>
   <hr>
   <div class="gist-readme" data-key="README.md">
-  Welcome to VIDD.ai. VIDD generates segment maps from your video footage to save you time rummaging for those special cuts you want.
+  Welcome!&nbsp;&nbsp; I'm Vidd.ai, your video a(i)ssistant. I generate segment maps from your video footage to save you time rummaging for those special cuts you want.
   <br/>Above is an example segment map.  Action cam examples: <a target="_blank" href="https://vidd-ai.github.io/art-luca/segView.html?fn=GX012312.MP4&u=AF99803F-868A-443D-87CB-E18DD370E655&c=File">snowboard</a>, <a target="_blank" href="https://vidd-ai.github.io/art-luca-2/segView.html?fn=MAH00420.MP4&u=207D704A-78EA-48E8-8BF9-8CA70FD56DAF&c=File">climbing</a> (footage ©<a href="https://www.youtube.com/watch?v=7Y89kexgdjQ#t=16s">Luca Li</a>).
 <span class="instruction">Hover over a segment (without dragging) to magnify that segment.</span>
   <br/><br/>
   ~~<br/>
-  VIDD can generate and store several types of video maps for you:<br/>
+  Vidd.ai can generate and store several types of video maps for you:<br/>
   <ul style="list-style-type:circle;">
-  <li>A <span class="map_name">segment map </span> shows segments found inside a footage file, or in a category.</li> 
-  <li>A <button id="categoryMap">Category map</button> helps visualize memories, people, places, etc.</li> 
-  <li>A <button id="fileMap">File map</button> helps you locate segments inside footage files for further editing.</li>
+  <li>A <span class="map_name">segment map </span> shows segments found inside a footage file or category, including highlights.</li> 
+  <li>A <button id="categoryMap">Category map</button> shows you what categories your highlight segments belong to.</li> 
+  <li>A <button id="fileMap">File map</button> gives an overview of how many segments have been found in your footage files.</li>
   </ul> 
   <br/>
   User feedback: <span class="user-feedback">"To its credit, quite a few of the clips it did cut out were ones I used in my final video and were exactly shots I was looking for (in my head) when I was scrubbing the timeline.."
@@ -101,7 +101,7 @@ hr {
 		<li>for your <button id="more_gbVids">videos on local devices</button> (action cam footage, digitized files from VHS ...)
         		<div id="more_gbExplain" class="instruction" style="display:none">
 				<br/>
-				Use the <a href="https://vidd-ai.github.io/streamer-bot/" target="_blank">Vidd streamer bot</a> on your laptop to send your files
+				Use the <a href="https://vidd-ai.github.io/streamer-bot/" target="_blank">Vidd thin client</a> to send your files from your lap/desktop
 				<br/><br/>
 			</div>
 
@@ -114,7 +114,8 @@ hr {
 <script>
 	var user='fd0c11c95c8614cfb4b76a28208d61f9';
         $('#categoryMap').on('click', function () {
-            window.open("cat.segSummary.html?u=" + user);
+            //window.open("cat.segSummary.html?u=" + user);
+            window.open("https://vidd-ai.github.io/EFC5B894-B032-4133-9D1F-5EA87E27BDE4/viewer.html?v=category_map/index.html&u=EFC5B894-B032-4133-9D1F-5EA87E27BDE4&c=Cat");
             });
 
         $('#fileMap').on('click', function () {
